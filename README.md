@@ -1,4 +1,4 @@
-# ResNetAtentionBiLSTM
+# ResNetAttentionBiLSTM
 Google command recognize
 
 thanks to:
