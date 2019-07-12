@@ -3,7 +3,8 @@ Google command recognize
 
 thanks to:
 [A_neural_attention_model_for_speech_command_recogn](https://arxiv.org/abs/1808.08929)
-and it's github project: https://github.com/douglas125/SpeechCmdRecognition
+[DEEP RESIDUAL LEARNING FOR SMALL-FOOTPRINT KEYWORD SPOTTING](https://cs.uwaterloo.ca/~jimmylin/publications/Tang_Lin_ICASSP2018.pdf)
+and the first paper's github project: https://github.com/douglas125/SpeechCmdRecognition
 
 \
 @ARTICLE{2018arXiv180808929C,
@@ -20,5 +21,5 @@ archivePrefix = "arXiv",
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 
-[DEEP RESIDUAL LEARNING FOR SMALL-FOOTPRINT KEYWORD SPOTTING](https://cs.uwaterloo.ca/~jimmylin/publications/Tang_Lin_ICASSP2018.pdf)
+
 
