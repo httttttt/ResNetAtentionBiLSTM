@@ -4,6 +4,8 @@ Google command recognize
 thanks to:
 [A_neural_attention_model_for_speech_command_recogn](https://arxiv.org/abs/1808.08929)
 and it's github project: https://github.com/douglas125/SpeechCmdRecognition
+
+\
 @ARTICLE{2018arXiv180808929C,
    author = {{Coimbra de Andrade}, D. and {Leo}, S. and {Loesener Da Silva Viana}, M. and 
 	{Bernkopf}, C.},
