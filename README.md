@@ -1,7 +1,9 @@
 # ResNetAtentionBiLSTM
 Google command recognize
 
-
+thanks to:
+[A_neural_attention_model_for_speech_command_recogn](https://arxiv.org/abs/1808.08929)
+and it's github project: https://github.com/douglas125/SpeechCmdRecognition
 @ARTICLE{2018arXiv180808929C,
    author = {{Coimbra de Andrade}, D. and {Leo}, S. and {Loesener Da Silva Viana}, M. and 
 	{Bernkopf}, C.},
@@ -15,3 +17,6 @@ archivePrefix = "arXiv",
    adsurl = {http://adsabs.harvard.edu/abs/2018arXiv180808929C},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+
+[DEEP RESIDUAL LEARNING FOR SMALL-FOOTPRINT KEYWORD SPOTTING](https://cs.uwaterloo.ca/~jimmylin/publications/Tang_Lin_ICASSP2018.pdf)
+
