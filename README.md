@@ -1,6 +1,8 @@
 # ResNetAttentionBiLSTM
 Google command recognize
 
+achieve 97.3% accuracy on Google command dataset v2 12-word
+
 thanks to:
 \
 [A_neural_attention_model_for_speech_command_recogn](https://arxiv.org/abs/1808.08929)
